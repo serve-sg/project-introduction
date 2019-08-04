@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Discussion with Prof Pey, Registrar and Prof Dario"
+title:  "Demo meeting notes"
 date:   2019-02-22
 categories: meeting minutes
 ---
+Taken from DiscoverSUTD
+
 Meeting to clarify objectives and concept of Discovery Week.
 Concerns raise were:
 1. We need to take note that it is Ramadan
