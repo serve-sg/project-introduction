@@ -9,8 +9,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: Serve SG
-subtitle: Project Page to introduce Serve SG
+name: serve.
+subtitle: Project Page to introduce serve.sg
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -21,7 +21,7 @@ baseurl: '/project-introduction'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Serve SG
+  name: serve.sg
   url: https://github.com/serve-sg
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -44,7 +44,7 @@ navigation:
   url: proposal_details/
   internal: true
 - text: Site repo
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/serve-sg/project-introduction
   internal: false
 
 # Repo list
