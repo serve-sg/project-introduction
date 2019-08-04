@@ -3,7 +3,7 @@ layout: page
 title:  "Contributing"
 ---
 
-# Contributing & Collaboration Guidelines
+# Contributing and Collaboration Guidelines
 We have a tonne of tasks on [GitHub](https://docs.google.com/document/d/1ydSVaiCdscI8Kjk2QfaIW9zi-dM-X1yGCcWAvrdRAMI/edit#) specifically distributed into four teams. They are product development, marketing and partnerships, customer success, and legal. We work off our [Telegram group](https://t.me/joinchat/B_GjVBY3aiiQvulHa-Poow), but if you join please introduce yourself!
 
 
