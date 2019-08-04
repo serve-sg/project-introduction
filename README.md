@@ -1,49 +1,25 @@
-# Discovery Week (Working Title)
-**Decentralised planning for the Freshmore experience**
+# What is this?
+**serve.sg** is an <span style="color:green;">open-source</span> <span style="color:blue;">skilled</span> volunteer <span style="color:red;">matching</span> platform, designed and driven entirely by volunteers, for volunteers.
 
-Check out [this page](https://open.sutd.dev/discovery-week-working-title/) for all the in depth details. You will even find out meeting minutes there! (it's under "Posts")
+**serve.sg** aims to connect skilled volunteers with charities or non-profit organisations (NPOs) in Singapore [<span style="color:red;">matching</span>]. The focus is on projects involving higher-level skills [<span style="color:blue;">skilled</span>], in order to empower charities and NPOs to improve their service delivery or organisational capabilities. Designed and driven entirely by volunteers, for volunteers, the open-development process [<span style="color:green;">open-source</span>] also allows volunteers as well as the charities and non-profit organisations to shape and to expand the platform based on their needs.
 
-Do let us know if you can think of a better name for this event! That's why it's still a working title.
+This is why we are making sure that our project documents are kept open so that **you** can be a part of this process.
+Read the "Posts" section at the bottom of this page if you're interested to going through our meeting minutes.
 
-## What is this?
-Discovery Week is a 3 week long introduction to the SUTD community. It will last from 21st May - 7 June 2019.
+# Unique Value Proposition
 
-It is currently a working title because the name is still in the midst of being decided. Afterall, it’s a 3 week event and no longer just one week!
+## Open-source
+The open-development process means that serve.sg will evolve - following the initial development - as per the needs of the volunteers, charities, and non-profit organisations.
 
-Discovery Week is organised by the team behind OpenSUTD.
+## Matching (and proposing)
+Unlike existing platforms which only allow charities or NPOs to host projects, serve.sg allows volunteers to also pitch good ideas instead of merely accepting existing projects. Reciprocity and collaboration are key themes. A channel for “solutions to look for problems” is therefore created because sometimes charities or NPOs may not know all the possibilities or their potential until they see good ideas.
 
-OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
+- **Team-based collaboration**: Volunteers can also work in teams, so that first-time volunteers can learn from veterans, thereby facilitating skills diffusion and social learning.
+- **Synergy with service-learning programmes**: Not only is the ability to pitch projects to charities or NPOs complementary to service-learning undertakings in school, it is part of different features to attract students and schools en masse.
+- **Post-project feedback**: Volunteers and charities or NPOs, at the end of each project, can rate one another.
+- **Gamification**: Moving ahead, gamification would also encourage volunteers to put in quality work and to incentivise charities or NPOs to be good hosts.
 
-## Contributing
-Details are [here](https://open.sutd.dev/discovery-week-working-title/contributing/).
-In general the workflow is:
-1. Submit a proposal through Github Issues on our master repository
-2. We will reply to your issue and review it.
-3. Once it is reviewed and cleared, you will get a notification.
-4. If you’re proposing a session for the event, please proceed to Eventyay to submit your proposal. This is done to collate your details and to get ready to schedule you for the event. Otherwise, if you’re making a suggestion for improvement, the workflow will diverge and tailor to the idea given.
+## Skilled volunteerism
+Volunteers can conceptualise innovative solutions and pitch ideas, and there are no limits on the relevance of skill sets.
 
-
-## Timeline
-This is to cater to Fifth row leaders when they are planning. The detailed proposal is [here](https://open.sutd.dev/discovery-week-working-title/proposal_details/)
-
-|Week|Activities|
-|--|--|
-|20 - 24 May|Thurs: Human library, HG event|
-||Fri: Fifth row sessions (after class hours)|
-||Mon is public holiday|
-|24 - 31 May|Mon-Fri: Fifth row sessions available (after class hours)|
-||Weds: Lightning talks, pillar sessions, lab visit|
-||Thurs: Housing event|
-|3 - 7 June|Mon-Fri: Fifth row sessions available (after class hours)|
-||Weds is public holiday, makeup class on Friday|
-
-
-## Who's Who:
-
-Discovery Week details: Hum Qing Ze ([email](mailto:qingze_hum@mymail.sutd.edu.sg))
-
-OpenSUTD: Timothy Liu ([email](mailto:timothy_liu@mymail.sutd.edu.sg)); Joel Huang ([email](mailto:joel_huang@mymail.sutd.edu.sg))
-
-Open Regulation: Lee Gui An ([email](mailto:guian_lee@mymail.sutd.edu.sg))
-
-SAC rep coordination: Tay Kay Jin ([email](mailto:kayjin_tay@mymail.sutd.edu.sg))
+If you're interested in helping shape serve.sg, if you would simply like to give feedback, please check out the [Contributing](https://serve-sg.github.io/project-introduction/contributing/) page.
