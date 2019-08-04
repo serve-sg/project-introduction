@@ -2,43 +2,57 @@
 layout: page
 title:  "Contributing"
 ---
-**Overall Contribution Workflow**
 
-1. Submit a proposal through Github Issues on our master repository
-2. We will reply to your issue and review it.
-3. Once it is reviewed and cleared, we will notify you.
+# Contributing & Collaboration Guidelines
+We have a ton of tasks on [GitHub](https://docs.google.com/document/d/1ydSVaiCdscI8Kjk2QfaIW9zi-dM-X1yGCcWAvrdRAMI/edit#) specifically distributed into 4 teams. They are product development, marketing and partnerships, customer success, and legal. We work off our [telegram group](https://t.me/joinchat/B_GjVBY3aiiQvulHa-Poow) but if you join please introduce yourself!
 
-Please do note that the planning team is small and we ask for your patience. It will take time to clear sesssions with the staff but rest assured we receive all proposals.
 
-**I would like to hold a session**
+## How to contribute
 
-If you're a Fifth Row leader, a Senior or alumni and would like to hold a workshop for Freshmores.
+If you want to contribute and help us out with the above, please either create an [issue](https://github.com/serve-sg/project-introduction/issues) or join the group and talk to us!
 
-1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
-2. Click on "Get started" under Session Proposal
-3. Please provide us the details of your session. We would like to emphasise that we would like you to *italicise* the specific skills/takeaways from your session.
+### Create an issue
 
-For examples of other workshops that are pretty good, take a look at the recent [Deep Learning Workshop](https://github.com/OpenSUTD/deeplearning-workshop-2019).
+See a typo, mistake, etc.? Make an Issue!
 
-Also take a look at what other Fifth Rows are [planning](https://github.com/OpenSUTD/discovery-week-working-title/issues).
+To create an issue on GitHub, go to the [Serve Sg Project Introduction repository](https://github.com/serve-sg/project-introduction) and click on “Issues” on the top tabs. From there click the “New Issue” green button on the upper right. You’ll need to be a GitHub user with an account to do this, so if you don’t have an account go create one first please!
 
-**I would like to be a part of the team**
+<figure class="figure">
+    <img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_tab.PNG" alt="a view of the serve-sg project introduction repository, point out the issues tab" />
+    <figcaption class="figcaption">The main page for the Serve SG project introduction repository, the “Issues” tab is second from left.</figcaption>
+</figure>
 
-For visual branding:
-We've requested for a budget! Since we're a design school, our efforts need to not just be conceptually sound but aesthetically pleasing. To alleviate the work, possibly looking at seeking freelancers to prepare material.
-1. assist session organisers to maintain a consistent visual brand throughout the event
-2. produce graphics for curated tracks and programs
+From there click the “New Issue” green button on the upper right.
 
-**I would like to make a suggestion**
+<figure class="figure">
+<img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_page.PNG" alt="GitHub issue list" />
+<figcaption class="figcaption">The issue page for Serve SG, click the green button to start an issue.</figcaption>
+</figure>
 
-1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
-2. Click on "Get started" under Feedback for OrgComm
-3. Let us know how we can do better!
+First, give your issue a title. This should briefly but clearly identify the content, because that’s what will show up in the list of issues. Then you’ll want to tell us what’s going on. Do you want to write a method? Cool, let us know which one and what works best for you to write it, such as a Google Doc, a gist, or maybe you use something else you can share? One note: if you are familiar with markdown it’s helpful to write methods in that since we are using that as our base for the content of the site.
 
-**I would like to speak for Lightning talks**
+<figure class="figure">
+    <img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_templates.PNG" alt="GitHub issue templates" />
+    <figcaption class="figcaption">We've made templates for issues that we foresee will come up often.</figcaption>
+</figure>
 
-So what's a [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk)?
-Lightning talks are designed to be short presentations between five and ten minutes long, but are usually capped at five minutes
-1. Go to our [issue](https://github.com/OpenSUTD/discovery-week-working-title/issues/new/choose) templates
-2. Click on "Get started" under Lightning Talk Proposal
-3. Let us know your Session Title, a short Abstract, who you are, what participants should take away from your session and if you need any special logistics
+You can also fill out an issue for other things you see that can be improved or need fixing, such as expanding to or adding to an existing method, typos somewhere on the site, or ideas for new parts of the kit.
+
+Once you’ve filled out all the information you think we need, hit the Submit New Issue button and we’ll get back to you!
+
+### Do a Pull Request
+
+If you are familiar with Git and GitHub or if you want to get more familiar, you may be up for trying the pull request process. This is a great approach if you want to add, expand or localize content for a method (localization is an especially huge job so if you speak another language, we need your help!).
+
+If you’re just getting started, here are some great articles to get you more comfortable and familiar with Git and GitHub:
+
+- [Really Quick Git](http://vallandingham.me/Quick_Git.html)
+- [A Series on Git Workflow](http://vallandingham.me/git-workflow.html)
+- [The Beginner's Guide to Contributing to a GitHub Project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+- [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)
+
+If you aren't a maintainer or collaborator on Serve SG, you'll want to fork the repo, do your work, and then do a pull request to let us know what you've done. We can then have a discussion, if necessary, and merge in the work once it’s ready.
+
+If you still don’t feel comfortable working with the actual code and using Git and GitHub, don't worry, just open an issue as outlined above and we'll figure out how to get your ideas into the kit.
+
+Adapted from Open Design Kit's contributing & collaboration guidelines.
