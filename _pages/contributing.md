@@ -18,21 +18,21 @@ See a typo, mistake, etc.? Make an Issue!
 To create an issue on GitHub, go to the [Serve Sg Project Introduction repository](https://github.com/serve-sg/project-introduction) and click on “Issues” on the top tabs. From there click the “New Issue” green button on the upper right. You’ll need to be a GitHub user with an account to do this, so if you don’t have an account go create one first please!
 
 <figure class="figure">
-    <img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_tab.PNG" alt="a view of the serve-sg project introduction repository, point out the issues tab" />
+    <img src="https://i.imgur.com/JKxyT8B.png" alt="a view of the serve-sg project introduction repository, point out the issues tab" />
     <figcaption class="figcaption">The main page for the Serve SG project introduction repository, the “Issues” tab is second from left.</figcaption>
 </figure>
 
 From there click the “New Issue” green button on the upper right.
 
 <figure class="figure">
-<img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_page.PNG" alt="GitHub issue list" />
+<img src="https://i.imgur.com/bJXM9Dd.png" alt="GitHub issue list" />
 <figcaption class="figcaption">The issue page for Serve SG, click the green button to start an issue.</figcaption>
 </figure>
 
 First, give your issue a title. This should briefly but clearly identify the content, because that’s what will show up in the list of issues. Then you’ll want to tell us what’s going on. Do you want to write a method? Cool, let us know which one and what works best for you to write it, such as a Google Doc, a gist, or maybe you use something else you can share? One note: if you are familiar with markdown it’s helpful to write methods in that since we are using that as our base for the content of the site.
 
 <figure class="figure">
-    <img src="https://github.com/serve-sg/project-introduction/blob/master/assets/img/issue_templates.PNG" alt="GitHub issue templates" />
+    <img src="https://i.imgur.com/vNxHwlE.png" alt="GitHub issue templates" />
     <figcaption class="figcaption">We've made templates for issues that we foresee will come up often.</figcaption>
 </figure>
 
