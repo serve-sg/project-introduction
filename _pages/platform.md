@@ -2,6 +2,13 @@
 layout: page
 title:  "Platform"
 ---
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
+
 ## For Volunteers
 |Feature|Description|
 |-|-|
