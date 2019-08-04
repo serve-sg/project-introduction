@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  "Proposal Details"
+title:  "Task Details"
 ---
 
-We have made the Project Proposal available for viewing. Please do note that this will be subject to change as we gather feedback from our stakeholders.
-<iframe width="90%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTOW7syVWX7fgpotpa2Jbv0zYmO8sBUAu1241obGrsApLIpWC9kSgu8Z7zjJujm5YAtbT9uD9f8LLMz/pubhtml"></iframe>
+We have made the Project Tasking available for viewing. Its a **live** document!
+
+<iframe width="90%" height="500px" src="https://docs.google.com/document/d/e/2PACX-1vQG5xruDW3PqORWuJcrtstpCDKY9a-KMa5I2E4UaqQUHweR9bxmxC2w-8KRzy8dU8RxxaGYPmGR2s98/pub?embedded=true"></iframe>
