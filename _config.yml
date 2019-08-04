@@ -9,20 +9,20 @@ collections:
     permalink: /:path/
 
 # Title
-name: Discovery Week (working title)
-subtitle: Project Page for organising Discovery Week
+name: Serve SG
+subtitle: Project Page to introduce Serve SG
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/discovery-week-working-title'
+baseurl: '/project-introduction'
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: OpenSUTD
-  url: https://github.com/OpenSUTD
+  name: Serve SG
+  url: https://github.com/serve-sg
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl:
@@ -50,9 +50,9 @@ navigation:
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: Discovery Week
+- name: Serve SG
   description: Master Repository
-  url: https://github.com/OpenSUTD/discovery-week-working-title
+  url: https://github.com/serve-sg/project-introduction
 
 # Style Variables
 brand_color: "#2cb34a"
