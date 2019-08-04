@@ -1,9 +1,9 @@
 ---
 name: Feedback for OrgComm
-about: Provide comments or suggestions to OrgComm
+about: Provide comments or suggestions
 title: "[Feedback] Title of feedback"
 labels: needs-review
-assignees: Fishbiscuit, tlkh
+assignees: Fishbiscuit
 
 ---
 
