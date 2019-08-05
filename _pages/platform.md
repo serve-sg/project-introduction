@@ -41,13 +41,13 @@ title:  "Platform"
 
 Report a bug [here](https://github.com/serve-sg/project-introduction/issues/new?assignees=Fishbiscuit&labels=bug&template=bug-report.md&title=Bug+Description)!
 
-You will need to first make a Github account to use this platform please!
+You will need to first make a GitHub account to use this platform!
 
 ## For Charities
 
 |Feature|Description|
 |---|---|
-|Create a Charity page| Include Charity's address, zip code, website, e-mail, contact, mission, and vision. Also option to include a charity profile picture|
+|Create a Charity page| Include Charity's address, zip code, website, e-mail, contact, mission, and vision. Also an option (but highly encouraged) to include a charity profile picture|
 |Create a Project|Found under the Menu>My Charity>Create a New Project|
 |Project Details| Name, Causes (select * from predefined list), Skills (select * from predefined list), location, start time, end time, project description, executive summary, capacity, and prerequisites (what participants need ot have or know to participate)|
 |Volunteer acceptance|View and accept volunteers for project|
@@ -55,7 +55,7 @@ You will need to first make a Github account to use this platform please!
 
 Report a bug [here](https://github.com/serve-sg/project-introduction/issues/new?assignees=Fishbiscuit&labels=bug&template=bug-report.md&title=Bug+Description)!
 
-You will need to first make a Github account to use this platform please!
+You will need to first make a GitHub account to use this platform!
 
 
 ## General Rules
